@@ -1,0 +1,36 @@
+body{
+    background-color: papayawhip;
+}
+.a1{
+    background-color: paleturquoise;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Lucida Sans;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(97, 20, 169);
+    margin-top: 20px;
+}
+.hw{
+    background-color: palevioletred;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Lucida Sans;
+    font-size: medium;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(22, 53, 187);
+}
+.he{
+    background-color: palegreen;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Lucida Sans;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(22, 53, 187);
+    margin-top: 20px;
+}
